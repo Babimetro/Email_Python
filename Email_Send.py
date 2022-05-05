@@ -1,3 +1,8 @@
+#=========================================================================
+#
+#   How to send Email with Python by:  Babimetro
+#
+#==============================================================================
 import smtplib
 from os.path import basename
 from email.mime.text import MIMEText
